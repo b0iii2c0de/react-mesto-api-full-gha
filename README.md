@@ -3,7 +3,7 @@
 Тест
 # react-mesto-api-full
 
-Репозиторий для приложения проекта `react-mesto-api-fuapi.codeboiii.nomoreparties.coll`, включающий фронтенд и бэкенд части приложения.
+Репозиторий для приложения проекта `react-mesto-api-fuapi.codeboiii.nomoreparties.coll`, включающий фронтенд и бэкенд части приложения!
   
 Адрес репозитория: https://
 
